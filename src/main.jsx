@@ -46,7 +46,7 @@ const router = createBrowserRouter(
       <Route path="about" element={<About />} />
       <Route path="contact" element={<Contact />} />
       <Route path="search" element={<Search />} />
-      <Route path="/:userid" element={<User />} />
+      <Route path="user/:userid" element={<User />} />
     </Route>
   )
 );
