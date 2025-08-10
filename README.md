@@ -7,7 +7,7 @@
 ## Live Website
 #### 🚀Experience Mini GitHub in Live!
 🔗Live Demo :
-[Mini GitHub Live Link](https://bhuvan-anupoju.github.io/Netflix-Clone/)
+[Mini GitHub Live Link](https://bhuvan-anupoju.github.io/MiniGithubWebsite)
 
 ## Project Banner
 ![Mini GitHub Banner](https://github.com/user-attachments/assets/1eebb96e-7492-4c5b-8b0a-f8b580936d74)
